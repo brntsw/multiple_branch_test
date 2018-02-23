@@ -3,7 +3,7 @@ package example.bruno.testmultiplebranches
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
-//this is alpha
+//this is alpha x
 
 class MainActivity : AppCompatActivity() {
 
